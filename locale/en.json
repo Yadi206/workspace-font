@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Workspace polish",
+    "description": "Bolds the project folders in the sidebar's Workspace section, keeps their session rows one step smaller, and adds a Collapse all button in that section's header — right after the Workspace title, before the search button — that folds every expanded project in one press. A Settings page, Workspace polish, sets the font family, size, bold, and italic for both row kinds; the choice is saved in this browser. Only typography and that one added button change, so colors, hover fills, and the folder and arrow glyphs stay as shipped. It adds no model requests and reads no files, and turning the plugin off restores the default sidebar.",
+    "detail": "docs/DETAIL.md"
+  }
+}

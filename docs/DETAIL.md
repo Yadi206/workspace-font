@@ -1,0 +1,1 @@
+![The sidebar's Workspace section with a Collapse all button beside its title, each project folder name in the bold weight, and the session rows under it in the regular weight and a smaller size](preview.svg)
