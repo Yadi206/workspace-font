@@ -1,0 +1,6 @@
+url: https://github.com/Yadi206/workspace-font
+name: Yadi206/workspace-font
+category: ui
+description:
+  en: 'Sidebar typography for DeepSeek Harness: top-level workspace folders read bold and their session rows one step smaller, both adjustable (font family, size, bold, italic) on a settings page, plus a Collapse all button in the Workspace section header.'
+  zh: 'DeepSeek Harness 侧边栏字体插件：工作区顶层项目文件夹加粗、会话行字号小一号，设置页可分别调整字体、字号、加粗与斜体，并在「工作区」标题旁提供「全部折叠」按钮。'
